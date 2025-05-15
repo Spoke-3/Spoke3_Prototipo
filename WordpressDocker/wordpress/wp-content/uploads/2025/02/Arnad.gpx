@@ -1,0 +1,1016 @@
+<?xml version="1.0"?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="http://www.delorme.com" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>Traccia convertita: 15/03/2023</name>
+    <desc>Traccia convertita: 15/03/2023</desc>
+    <trkseg>
+      <trkpt lat="45.639439" lon="7.727992">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.001Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.639546" lon="7.728798">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.002Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.639518" lon="7.729142">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.003Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.639497" lon="7.729292">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.004Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.639070" lon="7.731272">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.005Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.639031" lon="7.732062">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.006Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.638797" lon="7.732822">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.007Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.638467" lon="7.733099">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.008Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.638709" lon="7.733300">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.009Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.638645" lon="7.733257">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.01Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.638572" lon="7.734058">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.011Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.638419" lon="7.734972">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.012Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.638409" lon="7.735905">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.013Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.638158" lon="7.736755">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.014Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.637859" lon="7.737633">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.015Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.637731" lon="7.738523">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.016Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.637608" lon="7.739328">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.017Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.637379" lon="7.739810">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.018Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.637482" lon="7.740484">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.019Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.637237" lon="7.741152">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.02Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.637020" lon="7.742008">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.021Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.636967" lon="7.742735">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.022Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.636924" lon="7.744166">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.023Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.636319" lon="7.745168">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.024Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.636016" lon="7.746263">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.025Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.636250" lon="7.746387">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.026Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.636490" lon="7.746572">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.027Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.636490" lon="7.746701">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.028Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.636050" lon="7.746295">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.029Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.635705" lon="7.746651">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.03Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.635516" lon="7.747164">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.031Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.635220" lon="7.747681">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.032Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.635018" lon="7.748263">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.033Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.634789" lon="7.748424">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.034Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.634765" lon="7.747763">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.035Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.635087" lon="7.747222">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.036Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.635068" lon="7.746490">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.037Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.635147" lon="7.745284">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.038Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.635196" lon="7.745387">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.039Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.634971" lon="7.744907">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.04Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.634864" lon="7.744205">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.041Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.634956" lon="7.743780">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.042Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.634864" lon="7.743051">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.043Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.634197" lon="7.742804">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.044Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.634300" lon="7.743008">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.045Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.634430" lon="7.742997">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.046Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.633782" lon="7.742381">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.047Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.633533" lon="7.742763">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.048Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632851" lon="7.742827">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.049Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632117" lon="7.742456">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.05Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.631253" lon="7.741999">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.051Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.631748" lon="7.742621">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.052Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632164" lon="7.743645">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.053Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632637" lon="7.743956">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.054Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.631989" lon="7.744117">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.055Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632302" lon="7.744799">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.056Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632641" lon="7.745128">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.057Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632519" lon="7.745548">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.058Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632926" lon="7.746299">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.059Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.633068" lon="7.746383">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.06Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.633285" lon="7.746698">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.061Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.633327" lon="7.746969">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.062Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.633583" lon="7.747376">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.063Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.633439" lon="7.748432">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.064Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.633130" lon="7.748969">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.065Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.633003" lon="7.749842">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.066Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632787" lon="7.750520">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.067Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632514" lon="7.751181">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.068Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632488" lon="7.752247">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.069Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632336" lon="7.752945">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.07Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632289" lon="7.753790">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.071Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632439" lon="7.754595">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.072Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.633091" lon="7.754919">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.073Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.633182" lon="7.755530">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.074Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.633010" lon="7.756170">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.075Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.633010" lon="7.757367">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.076Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632508" lon="7.758146">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.077Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632907" lon="7.759655">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.078Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632637" lon="7.760408">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.079Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632454" lon="7.761152">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.08Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632759" lon="7.762144">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.081Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632527" lon="7.762762">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.082Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632641" lon="7.763023">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.083Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632671" lon="7.763259">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.084Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632808" lon="7.763903">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.085Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632797" lon="7.764412">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.086Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632725" lon="7.764843">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.087Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.632877" lon="7.765178">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.088Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.633248" lon="7.764877">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.089Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.633842" lon="7.764448">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.09Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.633800" lon="7.764444">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.091Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.634126" lon="7.764375">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.092Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.634761" lon="7.764573">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.093Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.634881" lon="7.764277">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.094Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.635177" lon="7.764206">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.095Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.635216" lon="7.764034">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.096Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.635377" lon="7.763510">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.097Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.635304" lon="7.763234">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.098Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.635396" lon="7.763313">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.099Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.635662" lon="7.763410">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.1Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.635894" lon="7.763459">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.101Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.636100" lon="7.763558">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.102Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.636437" lon="7.763663">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.103Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.636261" lon="7.763146">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.104Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.636477" lon="7.762813">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.105Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.636426" lon="7.762313">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.106Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.636334" lon="7.762015">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.107Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.636392" lon="7.761926">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.108Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.636486" lon="7.761601">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.109Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.636452" lon="7.761353">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.11Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.636490" lon="7.760650">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.111Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.636982" lon="7.759512">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.112Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.637147" lon="7.759068">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.113Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.637516" lon="7.758758">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.114Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.637619" lon="7.759097">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.115Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.637595" lon="7.759053">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.116Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.637492" lon="7.758552">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.117Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.637638" lon="7.758293">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.118Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.637593" lon="7.757667">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.119Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.637913" lon="7.757035">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.12Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.638316" lon="7.757044">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.121Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.639188" lon="7.757029">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.122Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.639842" lon="7.757166">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.123Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.640808" lon="7.757145">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.124Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642436" lon="7.755244">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.125Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642471" lon="7.754410">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.126Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642196" lon="7.753390">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.127Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642048" lon="7.752428">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.128Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642082" lon="7.752502">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.129Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.641885" lon="7.751194">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.13Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.641872" lon="7.750431">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.131Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642037" lon="7.749495">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.132Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642147" lon="7.748559">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.133Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642636" lon="7.747710">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.134Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642395" lon="7.747507">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.135Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642883" lon="7.746783">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.136Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.643200" lon="7.745856">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.137Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642773" lon="7.745943">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.138Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642265" lon="7.746360">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.139Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.641797" lon="7.746551">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.14Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.641788" lon="7.746023">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.141Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.641715" lon="7.745207">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.142Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.641456" lon="7.744831">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.143Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.641709" lon="7.744116">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.144Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642383" lon="7.743615">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.145Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642136" lon="7.742885">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.146Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642383" lon="7.742459">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.147Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.643082" lon="7.741913">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.148Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.643421" lon="7.741079">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.149Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642829" lon="7.740495">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.15Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.643157" lon="7.740051">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.151Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.643406" lon="7.739175">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.152Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.643376" lon="7.738841">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.153Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.643520" lon="7.738352">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.154Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.643200" lon="7.738450">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.155Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.643303" lon="7.739291">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.156Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.643363" lon="7.739708">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.157Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.643177" lon="7.740268">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.158Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642945" lon="7.740751">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.159Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.643123" lon="7.740087">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.16Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.643368" lon="7.740301">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.161Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.643239" lon="7.740048">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.162Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642887" lon="7.740921">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.163Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642383" lon="7.741416">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.164Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.641934" lon="7.741764">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.165Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.641587" lon="7.741434">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.166Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.641415" lon="7.741192">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.167Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.640587" lon="7.741437">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.168Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.640254" lon="7.741249">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.169Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.639763" lon="7.741747">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.17Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.639552" lon="7.741618">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.171Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.639782" lon="7.740918">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.172Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.640213" lon="7.740098">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.173Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.640889" lon="7.739324">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.174Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.641048" lon="7.738233">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.175Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.641198" lon="7.736069">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.176Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.641366" lon="7.734996">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.177Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.641799" lon="7.734287">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.178Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642471" lon="7.734117">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.179Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.643123" lon="7.733709">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.18Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642812" lon="7.732961">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.181Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642434" lon="7.731730">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.182Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642647" lon="7.732406">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.183Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642857" lon="7.731727">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.184Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.643033" lon="7.731834">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.185Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.643039" lon="7.731271">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.186Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.643020" lon="7.731027">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.187Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642926" lon="7.730228">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.188Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642846" lon="7.729724">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.189Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642338" lon="7.728902">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.19Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.642209" lon="7.728729">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.191Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.641724" lon="7.728368">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.192Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.641181" lon="7.728383">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.193Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.640400" lon="7.728380">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.194Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.640645" lon="7.727680">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.195Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.640248" lon="7.727787">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.196Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.639516" lon="7.727891">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.197Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.639016" lon="7.728175">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.198Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+      <trkpt lat="45.639018" lon="7.728109">
+        <ele>0</ele>
+        <time>2023-03-15T11:58:36.199Z</time>
+        <desc>Traccia convertita: 15/03/2023</desc>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Eugenio Martina (6456571)</name>
+    <desc>Eugenio Martina (6456571)</desc>
+    <trkseg>
+      <trkpt lat="45.639018" lon="7.728109">
+        <ele>422</ele>
+        <time>2023-03-15T16:30:49Z</time>
+        <desc />
+        <fix>none</fix>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

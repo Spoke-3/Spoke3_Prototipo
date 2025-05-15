@@ -1,0 +1,322 @@
+# Copyright (C) 2024 BlockskitDev
+# This file is distributed under the GPLv3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blockskit Agency 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/blockskit-agency\n"
+"POT-Creation-Date: 2024-05-15 09:58:33+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: functions.php:48
+msgid "Blockskit Agency Patterns"
+msgstr ""
+
+#: patterns/about.php:30
+msgid "25"
+msgstr ""
+
+#: patterns/about.php:34
+msgid "Years Of Experience"
+msgstr ""
+
+#: patterns/about.php:53
+msgid "INTRODUCTION"
+msgstr ""
+
+#: patterns/about.php:62
+msgid "Introduction About Our Digital Agency Sector"
+msgstr ""
+
+#: patterns/about.php:66
+msgid "Aliquam praesent class metus iusto odio fugiat adipiscing etiam tortor sint, ratione sapiente et, penatibus placeat, error inventore."
+msgstr ""
+
+#: patterns/about.php:77
+msgid "Our Mission"
+msgstr ""
+
+#: patterns/about.php:82 patterns/about.php:98
+msgid "Blanditiis earum commodo illo eleifend, montes eros aperiam ullamcorper nullam."
+msgstr ""
+
+#: patterns/about.php:93
+msgid "Our Vision"
+msgstr ""
+
+#: patterns/about.php:105
+msgid "MORE ABOUT US"
+msgstr ""
+
+#: patterns/counter.php:21
+msgid "OUR PROGRESS"
+msgstr ""
+
+#: patterns/counter.php:30
+msgid "We Have Spread  All Over"
+msgstr ""
+
+#: patterns/counter.php:34
+msgid "Facere augue aspernatur, dolorem anim porttitor integer justo ducimus, inventore per gravida, eros platea commodo. Ac ipsa saepe voluptas, eros, animi, pede aut aliquet amet."
+msgstr ""
+
+#: patterns/counter.php:42
+msgid "360+"
+msgstr ""
+
+#: patterns/counter.php:46
+msgid "HAPPY CLIENT"
+msgstr ""
+
+#: patterns/counter.php:52
+msgid "650"
+msgstr ""
+
+#: patterns/counter.php:56
+msgid "ONGOING PROJECT"
+msgstr ""
+
+#: patterns/counter.php:66
+msgid "15+"
+msgstr ""
+
+#: patterns/counter.php:70
+msgid "AWARD ACHIVED"
+msgstr ""
+
+#: patterns/counter.php:76
+msgid "100%"
+msgstr ""
+
+#: patterns/counter.php:80
+msgid "SATICFACTION RATE"
+msgstr ""
+
+#: patterns/footer.php:20
+msgid "Nisl libero ullamcorper id ipsum viverra mauris non pellentesque placerat lorem lacinia sagittis non pretium."
+msgstr ""
+
+#: patterns/footer.php:38
+msgid "Products"
+msgstr ""
+
+#: patterns/footer.php:46
+msgid "Company"
+msgstr ""
+
+#: patterns/footer.php:58
+msgid "Resources"
+msgstr ""
+
+#: patterns/footer.php:66
+msgid "Support"
+msgstr ""
+
+#: patterns/footer.php:77
+msgid "Copyright © 2024 ·"
+msgstr ""
+
+#: patterns/footer.php:83
+msgid "· All rights reserved"
+msgstr ""
+
+#: patterns/gallery.php:29
+msgid "OUR PORTFOLIO"
+msgstr ""
+
+#: patterns/gallery.php:38
+msgid "Our Completed Activities"
+msgstr ""
+
+#: patterns/gallery.php:49
+msgid "VIEW ALL PROJECTS"
+msgstr ""
+
+#: patterns/gallery.php:63
+msgid "Implementing Plans For Digital Marketing &amp; Business"
+msgstr ""
+
+#: patterns/gallery.php:73
+msgid "Online Workshops for Business Agency &amp; Corporate"
+msgstr ""
+
+#: patterns/gallery.php:85
+msgid "Consulting to Business &amp; Agency Uplift the Market Value"
+msgstr ""
+
+#: patterns/gallery.php:95
+msgid "Everything You Should Know About Return"
+msgstr ""
+
+#: patterns/gallery.php:107
+msgid "6 Big Commerce Design Tips For Big Results"
+msgstr ""
+
+#: patterns/gallery.php:117
+msgid "Four Steps To Conduct A Successful Usability"
+msgstr ""
+
+#: patterns/header.php:29
+msgid "Get Started"
+msgstr ""
+
+#: patterns/hero-banner.php:19
+msgid "TRUST AND CLIENT FOCUS"
+msgstr ""
+
+#: patterns/hero-banner.php:28
+msgid "Financial Strategies For Business &amp; Agency"
+msgstr ""
+
+#: patterns/hero-banner.php:32
+msgid "Quibusdam facilisis ornare exercitation beatae sociosqu potenti litora, congue, proident laborum nascetur excepturi modi maiores, quidem feugiat praesent cubilia dictum adipisicing morbi eget scelerisque."
+msgstr ""
+
+#: patterns/hero-banner.php:37
+msgid "GET STARTED"
+msgstr ""
+
+#: patterns/hero-banner.php:41
+msgid "CONTACT US"
+msgstr ""
+
+#: patterns/latest-posts.php:14
+msgid "OUR BLOG"
+msgstr ""
+
+#: patterns/latest-posts.php:23
+msgid "Our Latest Posts"
+msgstr ""
+
+#: patterns/service.php:20
+msgid "SERVICES LIST"
+msgstr ""
+
+#: patterns/service.php:29
+msgid "Best Services We Can Offer !"
+msgstr ""
+
+#: patterns/service.php:41 patterns/service.php:57 patterns/service.php:73
+#: patterns/service.php:89
+msgid "OUR SERVICES"
+msgstr ""
+
+#: patterns/service.php:45
+msgid "Develop Website"
+msgstr ""
+
+#: patterns/service.php:61
+msgid "Graphic Designing"
+msgstr ""
+
+#: patterns/service.php:77
+msgid "Content Writing"
+msgstr ""
+
+#: patterns/service.php:93
+msgid "Market Strategy"
+msgstr ""
+
+#: patterns/template-404.php:24
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/template-cart.php:27 patterns/template-cart.php:90
+#: patterns/template-cart.php:153
+msgid "You may be interested in…"
+msgstr ""
+
+#: patterns/template-cart.php:209
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: patterns/template-cart.php:213
+msgid "Browse store"
+msgstr ""
+
+#: patterns/template-cart.php:221
+msgid "New in store"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:22
+msgid "Order Confirmation"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:40
+msgid "Order details"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:48
+msgid "Downloads"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:58
+msgid "Shipping address"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:68
+msgid "Billing address"
+msgstr ""
+
+#: patterns/template-product-search-results.php:49
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: patterns/template-search.php:51
+msgid "Sorry, but nothing matched your search terms. Try another search?"
+msgstr ""
+
+#: patterns/template-single-product.php:58
+msgid "Related products"
+msgstr ""
+
+#: patterns/testimonial.php:19
+msgid "OUR TESTIMONIAL"
+msgstr ""
+
+#: patterns/testimonial.php:28
+msgid "Our Customer Reviews"
+msgstr ""
+
+#: patterns/testimonial.php:40 patterns/testimonial.php:68
+msgid "Gravida nihil nulla eum esent reiciendis! Pariatur expedita integer accuss eouys rem molestias. Etiam consequatee Pariatur eouys expedita integer accuss eouys rem molestias."
+msgstr ""
+
+#: patterns/testimonial.php:50
+msgid "Nat Reynoldes"
+msgstr ""
+
+#: patterns/testimonial.php:54 patterns/testimonial.php:82
+msgid "CUSTOMER"
+msgstr ""
+
+#: patterns/testimonial.php:78
+msgid "Adam Henr"
+msgstr ""
+
+#: patterns/testimonial.php:92
+msgid "VIEW MORE REVIEWS"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Blockskit Agency"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://blockskit.com/blockskit-agency/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Blockskit Agency is a modern and versatile WordPress theme designed for various types of websites including accounting, advisory, agency, business, company, consulting, corporate, creative, digital agency, finance, full site editing, gutenberg, insurance, marketing and more. It offers full-site-editing, allowing easy customization of all aspects of your site. With multiple templates, patterns, and style variations, it's suitable for different aesthetics. The theme is also compatible with popular plugins like Elementor, WooCommerce, and Spectra – WordPress Gutenberg Blocks, adding extra functionality to your site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "BlockskitDev"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://blockskit.com"
+msgstr ""
